@@ -1,0 +1,39 @@
+Bien faire un copier/coller et modifier les champs (N'oublier pas les anti-quote entre ID: Plateforme et apres le dernier jeux)
+
+
+__**Plateforme:**__
+
+__*ID plateforme*__
+
+`
+- Jeux 1,
+- Jeux 2,
+- Jeux 3,
+`
+
+
+
+Example ci dessous:
+
+
+
+__**Sur PC:**__
+
+__*ID Steam: Cr7t3K*__
+`
+- Arma 3,
+- Arma 2 / Arma 2 OA,
+- DayZ,
+- ARK: Survival Evolved,
+- Space Engineers,
+- Rocket League,
+- Black Desert Online,
+`
+
+__**Sur Xbox:**__
+
+__*ID: Cr7t3K*__
+`
+- Jeux 1,
+- Jeux2,
+`
